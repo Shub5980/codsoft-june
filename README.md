@@ -8,14 +8,15 @@ This repository documents my journey as a Web Development Intern at Codsoft duri
 
 ## Highlights
 
-- **Projects**: Explore various web projects I worked on using technologies like HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
+- **Personal Portfolio Website**: https://shub5980.github.io/codsoft-june/personal-portfolio/
   
-- **Skills**: Demonstrates proficiency in frontend design, backend development, and effective team collaboration.
+- **GamingDen Landing Page**: https://shub5980.github.io/codsoft-june/gaming-landing-page/
 
-- **Learning**: Reflects my journey of acquiring new skills and applying them to real-world scenarios under mentorship.
+- **Calculator**: https://shub5980.github.io/codsoft-june/calculator/
 
 ## Purpose
 
 This repository serves as a record of my internship experience, highlighting achievements and lessons learned. It also demonstrates my commitment to continuous improvement in web development.
 
 Thank you for visiting!
+
