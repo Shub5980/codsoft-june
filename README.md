@@ -8,11 +8,11 @@ This repository documents my journey as a Web Development Intern at Codsoft duri
 
 ## Highlights
 
-- **Personal Portfolio Website**: https://shub5980.github.io/codsoft-june/personal-portfolio/
+- [Personal Portfolio Website](https://shub5980.github.io/codsoft-june/personal-portfolio/)
   
-- **GamingDen Landing Page**: https://shub5980.github.io/codsoft-june/gaming-landing-page/
+- [GamingDen Landing Page](https://shub5980.github.io/codsoft-june/gaming-landing-page/)
 
-- **Calculator**: https://shub5980.github.io/codsoft-june/calculator/
+- [Calculator](https://shub5980.github.io/codsoft-june/calculator/)
 
 ## Purpose
 
